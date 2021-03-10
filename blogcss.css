@@ -1,0 +1,230 @@
+.call
+{
+	margin: 0px 0px 0px 0px;
+	background-color: orange;
+	padding: 10px 10px;
+	font-family: Times New Roman;
+	color: White;
+	opacity: 0.9;
+	border-radius: 7px;
+	animation-name: anim;
+	animation-delay: 1s;
+	animation-duration: 4s;
+	position: relative;
+}
+
+#cb
+{
+	position: fixed;
+	padding-top: 8px;
+	padding-left: 15px;
+	font-size: 40px;
+	color: black;
+}
+#c1
+{
+	color: white;
+	opacity: 0.5;
+	font-style: underline bold;
+	padding-left: 15px;
+}
+#c
+{
+	color: white;
+}
+#f
+{
+	color: white;
+	padding-left: 20px;
+}
+#f1
+{
+	color: white;
+	opacity: 0.5;
+	font-style: underline bold;
+	padding-left: 10px;
+}
+#Login
+{
+	color: white;
+	padding-left: 1050px;
+}
+.img1
+{
+	display: block;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 4px;
+	padding: 5px;
+	width: 1500px;
+	height: 500px;
+	opacity: 0.6;
+	animation-name: anim;
+	animation-delay: 1s;
+	animation-duration: 4s;
+	position: relative;
+}
+.img1:hover
+{
+	box-shadow: 0px 0px 2px 2px;
+}
+#title
+{
+	position: absolute;
+	top: 32%;
+	right: 29%;
+	padding-top: 37px;
+	font-size: 1000%;
+	font-style: italic;
+	color: white;
+	text-shadow: 10px 10px 10px 10px red;
+}
+.container
+{
+	position: relative;
+	text-align: center;
+	color: red;
+		animation-name: anim;
+	animation-delay: 1s;
+	animation-duration: 4s;
+	position: relative;
+}
+.body1
+{
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.img2
+{
+	display: block;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 4px;
+	padding: 5px;
+	width: 1510px;
+	height: 500px;
+	opacity: 0.7;
+	border-radius: 9px;
+	animation-name: anim;
+	animation-delay: 1s;
+	animation-duration: 4s;
+}
+
+.cont1
+{
+	background-color: orange;
+	opacity: 0.9;
+	width: 50%;
+	height: 1050px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 5px solid white;
+	margin-top: 20px;
+	border-radius: 9px;
+		animation-name: anim;
+	animation-delay: 1s;
+	animation-duration: 4s;
+	position: relative;
+}
+
+#ctitle
+{
+	text-align: center;
+	padding: 14px;
+}
+
+#c11title
+{
+	text-align: center;
+	padding: 10px;
+}
+#c12title
+{
+	text-align: center;
+	padding-left: 50px;
+	padding-right: 50px;
+	color: solid white;
+	font-family: Helvetica;
+}
+
+.fcont
+{
+	height: 250px;
+	border: 15px dotted orange;
+	background-color: orange;
+	margin-top: 50px;
+	border-radius: 9px;
+		animation-name: anim;
+	animation-delay: 1s;
+	animation-duration: 4s;
+	position: relative;
+}
+
+#ty
+{
+	text-align: center;
+}
+#catch
+{
+	text-align: center;
+}
+.instagram
+{
+	text-align: center;
+
+}
+#insta
+{
+	padding-left: 5px;
+	color: black;
+}
+#sd
+{
+	padding-left: 15px;
+}
+#fb
+{
+	padding-left: 5px;
+		color: black;
+}
+
+#contintro
+{
+	width: 900px;
+	height: 200px;
+	background-color: orange;
+	padding: 10px;
+	position: absolute;
+	top: 50%;
+	opacity: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 10px;
+}
+
+#rights
+{
+	padding-top: 70px;
+}
+
+#sun
+{
+	height: 300px;
+	width: 480px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+@keyframes anim
+{
+	0% { top: 0px;}
+	25% {top: 0px;}
+	50% { top: 20px;}
+	75% {top: 0px;}
+	
+}
